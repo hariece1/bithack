@@ -77,7 +77,7 @@
     }
 
     .participants-section th {
-        background-color: #007bff; /* Primary color */
+        background-color: black; /* Primary color */
         color: #fff;
         font-weight: bold;
     }

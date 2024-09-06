@@ -22,4 +22,5 @@ Route::view('/aboutus','tpages.aboutus');
 Route::view('/contact','tpages.contact');
 Route::view('/forum','tpages.forum');
 Route::view('/admin/registrations/','tpages.admint.participantstable');
+Route::view('/admin/problemstatement/','tpages.admint.problemstatement');
 

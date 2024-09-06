@@ -76,6 +76,7 @@
 								<li><a href="#">Admin</a>
 									<ul class="sub-menu">
 										<li><a href="/admin/registrations/">Registration Details</a></li>
+										<li><a href="/admin/problemstatement/">Create Statement</a></li>
 										<!-- <li><a href="checkout.html">Check Out</a></li>
 										<li><a href="single-product.html">Single Product</a></li>
 										<li><a href="cart.html">Cart</a></li> -->

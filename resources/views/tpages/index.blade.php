@@ -1,5 +1,5 @@
 @extends('tpages.layouts.main')
-
+@section('title','Home page')
 @push('body')
 	<!-- hero area -->
 	<div class="hero-area hero-bg" style="position: relative; overflow: hidden;">
@@ -15,8 +15,8 @@
 							<p class="subtitle">"Build Innovatively"</p>
 							<h1>BIT HACK's</h1>
 							<div class="hero-btns">
-								<a href="shop.html" class="boxed-btn">Explore Events</a>
-								<a href="contact.html" class="bordered-btn">Contact Us</a>
+								<a href="/events" class="boxed-btn">Explore Events</a>
+								<a href="/contact" class="bordered-btn">Contact Us</a>
 							</div>
 						</div>
 					</div>
@@ -215,7 +215,7 @@
                             </div>
                         </div>
                     </div>
-                    <a href="register.html" class="cart-btn mt-3"><i class="fas fa-sign-in-alt"></i> Register Now</a>
+                    <a href="/events" class="cart-btn mt-3"><i class="fas fa-sign-in-alt"></i> Register Now</a>
                 </div>
             </div>
         </div>
